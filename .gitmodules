@@ -1,0 +1,3 @@
+[submodule "WikipediaChangesMonitor"]
+	path = WikipediaChangesMonitor
+	url = git@github.com:cjmatta/WikipediaChangesMonitor.git
